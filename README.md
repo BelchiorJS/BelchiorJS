@@ -68,51 +68,43 @@ Ativista da comunidade Open Source, procuro compartilhar meus projetos com o pú
   <tr>
     <td width="50%" valign="top">
       <h3>Project Janus - Claviculário de Chaves Digital</h3>
-      <p> CQRS | Clean Architecture | ASP.NET Core</p>
       <blockquote>
         Sistema de gerenciamento de chaves, usuários e permissões para operações de controle de acesso.
       </blockquote>
       <p><strong>Funcionalidades:</strong></p>
       <ul>
         <li>Gerenciamento de Chaves, Usuários e Permissões com endpoints estruturados;</li>
-        <li>JWT Tokens, rating limit's com </li>
-        <li>📝 Padronização e armazenamento de relatos de ocorrências</li>
+        <li>JWT Tokens, rating limit no login e outras features de cyber security; </li>
+        <li>UI moderna e ágil, pensada na melhor experiência para o usuário.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+        <img src="https://badgen.net/github/commits/BelchiorJS/Project-Janus/main?icon=github&color=blue" alt="Total de Commits"/>
+        <img src="https://badgen.net/badge/Status/Em%20Desenvolvimento/yellow" alt="Status do Projeto"/>
       </p>
       <br>
-      <a href="LINK_DO_SEU_REPO_AQUI">
+      <a href="https://github.com/BelchiorJS/Project-Janus">
         <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-1081c2?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔑 Controle de Claviculário</h3>
-      <p>Sistema | Gestão de Acessos</p>
+      <h3>Worker Service + API - Integração de Mensageria</h3>
       <blockquote>
-        Sistema para gestão e controle de chaves, estruturado para garantir a rastreabilidade e segurança dos ativos físicos da central.
+        Worker Service que se conecta a uma API de mensageria de protocolo RabbitMQ + API extra para exposição dos dados via DTO.
       </blockquote>
-      <p><strong>Destaques:</strong></p>
+      <p><strong>Funcionalidades:</strong></p>
       <ul>
-        <li>🗄️ Modelagem de dados própria utilizando SQL Server</li>
-        <li>⚙️ Back-end estruturado em C# (.NET Core)</li>
-        <li>🖥️ Interface dinâmica e responsiva construída em Angular</li>
+        <li>Worker Service que opera 24/7 coletando mensagens de um sistema de rastreamento e persiste em um banco de dados SQL Server;</li>
+        <li>API que expõe esse banco via DTO para diversas aplicações (Dashboards, BI, Uso em Outros Sistemas, etc...);</li>
+        <li>Fácil de instalar e configurar para uso em sua operação!</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+        <img src="https://badgen.net/github/commits/BelchiorJS/Real-Time-Tracker-WorkerService/main?icon=github&color=blue" alt="Total de Commits"/>
+        <img src="https://badgen.net/badge/Status/Concluído/green" alt="Status do Projeto"/>
       </p>
       <br>
-      <a href="LINK_DO_SEU_REPO_AQUI">
+      <a href="https://github.com/BelchiorJS/Real-Time-Tracker-WorkerService">
         <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-1081c2?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
       </a>
     </td>
   </tr>
 </table>
-
----
-
-> *"A tecnologia sem a disciplina operacional é apenas código; com disciplina, torna-se um sistema imparável."*
