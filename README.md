@@ -62,20 +62,20 @@ Ativista da comunidade Open Source, procuro compartilhar meus projetos com o pú
 | Tecnólogo em Ciência de Dados | UNINTER | Em andamento |
 | Análise de Dados (Power BI, SQL Server, Power Automate e DAX Avançado) | Udemy | Concluído |
 
-## 💻 Projetos Em Destaque
+## Projetos Em Destaque
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ CFTV Guardião</h3>
-      <p>Sistema | Segurança Operacional</p>
+      <h3>Project Janus - Claviculário de Chaves Digital</h3>
+      <p> CQRS | Clean Architecture | ASP.NET Core</p>
       <blockquote>
-        Desenvolvimento de um sistema de software projetado para centralizar relatos de incidentes, trocas de turnos e controle de acesso em operações 24/7.
+        Sistema de gerenciamento de chaves, usuários e permissões para operações de controle de acesso.
       </blockquote>
-      <p><strong>Destaques:</strong></p>
+      <p><strong>Funcionalidades:</strong></p>
       <ul>
-        <li>📹 Foco total no monitoramento e controle de acessos</li>
-        <li>🔄 Gestão eficiente e centralizada de troca de turnos</li>
+        <li>Gerenciamento de Chaves, Usuários e Permissões com endpoints estruturados;</li>
+        <li>JWT Tokens, rating limit's com </li>
         <li>📝 Padronização e armazenamento de relatos de ocorrências</li>
       </ul>
       <p>
