@@ -11,7 +11,7 @@ Se gostou de algum projeto e deseja entrar em contato comigo:
   </a>
 </p>
 
-### This README.md is also available in English 🇺🇸, Spanish 🇪🇸 and Chinese 🇨🇳.
+### This README.md is also available in [English 🇺🇸](./README-en.md), [Spanish 🇪🇸](./README-es.md) and [Chinese 🇨🇳](./README-zh.md).
 ---
 
 ## Sobre Mim
